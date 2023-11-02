@@ -25,11 +25,9 @@ Discover some of my most recent projects:
 2. [Song classification](https://github.com/jordan-elias/Song-Classification): A decision tree and logistic regression that predict song genres using song metadata.
 
 
-Feel free to explore and collaborate on any of these projects!
-
 ## 📫 Let's Connect
 
-I'm always open to new connections, collaborations, and opportunities in the tech world. Whether you're a fellow tech enthusiast, a recruiter, or a potential collaborator, don't hesitate to reach out. Let's create something remarkable together.
+I'm always open to new connections, collaborations, and opportunities in the tech world. Whether you're a fellow tech enthusiast, a recruiter, or a potential collaborator, don't hesitate to reach out.
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/jordan-elias).
 - Email me: (jordanphilipelias@gmail.com).
