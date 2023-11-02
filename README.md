@@ -1,4 +1,4 @@
-# Welcome to my page
+# Welcome to My GitHub Profile
 
 
 Hello! I'm Jordan, 
