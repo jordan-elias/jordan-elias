@@ -1,7 +1,9 @@
 # Welcome to My GitHub
 
 
-Hello! I'm Jordan, here on my GitHub, you'll find a range of projects exploring the intersection of technology, art, and science.
+Hello! I'm Jordan, 
+
+Here on my GitHub, you'll find a range of projects exploring the intersection of technology, art, and science.
 
 ## 🌱 Current Learning Focus
 - **FastAPI:** I'm actively exploring FastAPI to build more robust and efficient APIs for creating and managing databases.
