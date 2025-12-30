@@ -5,19 +5,19 @@ Hello! I'm Jordan,
 
 Here on my GitHub, you'll find a range of projects exploring the intersection of technology, art, and science.
 
-## 🌱 Current Learning Focus
+## Current Learning Focus
 - **FastAPI:** I'm actively exploring FastAPI to build more robust and efficient APIs for creating and managing databases.
 - **TensorFlow:** With TensorFlow, I am building skills with deep learning and neural networks. I'm particularly interested in Generative Adversarial Networks (GANs) Reinforcement Learning, and Time Series Analysis.
 
 
-## 🚀 My Interests
+## My Interests
 
 - **Data Science:** With data analysis, visualization, and predictive modeling, new insightcs come from the story they tell.
 - **Audio Processing:** I'm fascinated by sound, its analysis and manipulation, and I love to find new ways to explore this.
 - **Generative Music AI:** I'm excited about experimenting with AI-driven music composition. I'm curious about perceptions of the listener and how stochastic processes can be incorporated into music-making.
-- **Cognitive Neuroscience:** I'm pursuing a Master's in Cognitive Neuroscience, broadening my understanding of the human mind and its processes. I'm particularly interested in exploring the parallels between the brain and technology.
+- **Cognitive Neuroscience:** I have a Master's in Cognitive Neuroscience, broadening my understanding of the human mind and its processes. I'm particularly interested in exploring the parallels between the brain and technology.
 
-## 🛠️ Pinned Projects
+## Pinned Projects
 
 Discover some of my most recent projects:
 
